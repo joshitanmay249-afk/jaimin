@@ -1,0 +1,10 @@
+# ──────────────────────────────────────────────────
+# requirements.txt
+# Class 12 CS Project – Handwriting Recognition
+# ──────────────────────────────────────────────────
+numpy
+pillow
+scikit-learn
+joblib
+mysql-connector-python
+opencv-python
